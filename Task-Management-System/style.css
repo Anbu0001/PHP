@@ -1,0 +1,16 @@
+
+   /* Inline styles for quick reference, can be moved to styles.css */
+   body {
+    background-color: #f8f9fa; /* Light background */
+}
+h1 {
+    color: #007bff; /* Bootstrap primary color */
+}
+h2 {
+    font-weight: normal;
+    color: #343a40; /* Darker text */
+}
+.logout-link {
+    float: right; /* Align logout link to the right */
+    margin-top: 10px;
+}
